@@ -1,0 +1,48 @@
+## 📈 Resumo Executivo
+
+A análise integrada da base de clientes (4 mil registros) e transações (216 mil registros) revela padrões consistentes de comportamento, oportunidades de expansão de receita e pontos de atenção na política de crédito.
+
+### **1. Segmentos superiores concentram o maior valor financeiro**
+Clientes **Black e Platinum** apresentam limites e gastos médios significativamente maiores, representando uma parcela pequena da base, mas uma fatia desproporcional do faturamento.
+
+### **2. A região Sudeste domina o volume financeiro**
+Maior número de clientes, maior gasto total e maior tíquete médio.  
+É a região com maior potencial de retorno para campanhas segmentadas.
+
+### **3. Score e limite têm correlação positiva moderada**
+Há clientes com **bom score e limite subalocado**, indicando oportunidade de aumento de limite com baixo risco adicional.
+
+### **4. Outliers distorciam métricas de gasto**
+Após tratamento via IQR (cap), as métricas ficaram mais estáveis e representativas do comportamento real.
+
+### **5. Teste de hipótese confirma maior gasto do segmento Black**
+O gasto médio do segmento Black é estatisticamente maior que o do Classic (p < 0.05), validando ações de fidelização e benefícios premium.
+
+---
+
+## 🎯 Recomendações Estratégicas
+
+- **Aumentar limites de forma segmentada**, priorizando clientes Gold e Platinum com bom score.  
+- **Campanhas regionais no Sudeste**, onde o potencial de retorno é maior.  
+- **Programas de fidelidade e cashback** focados em categorias de alto gasto.  
+- **Revisão da política de crédito**, para capturar clientes subalocados e aumentar share of wallet.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Python  
+- Pandas  
+- NumPy  
+- Seaborn  
+- Matplotlib  
+- SciPy  
+- Google Colab  
+
+---
+
+## 📬 Contato
+
+Projeto desenvolvido por **Roberto**.  
+Para dúvidas ou sugestões, fique à vontade para abrir uma *issue* ou enviar uma mensagem.
+
